@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "uni-verso"
+    }
+  },
+  "defaultProject": "uni-verso",
+  "cli": {
+    "analytics": "1425af82-e1e9-4e6f-a46c-6595fcdd39c1"
+  }
 }
